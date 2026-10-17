@@ -2,7 +2,7 @@
 
 **Actuario | Análisis de Datos **
 
-Especializado en la traducción de grandes volúmenes de datos en inteligencia de negocios. Me enfoco en la optimización operativa, la evaluación espacial y el análisis cuantitativo de riesgos, desarrollando soluciones tecnológicas.
+Especializado en la traducción de grandes volúmenes de datos en inteligencia de negocios. Me enfoco en la optimización operativa, la evaluación espacial y el análisis cuantitativo de riesgos, desarrollando soluciones tecnológicas. En este espacio compartiré proyectos personales de diversos temas y dificultad conforme a mi desarrollo personal y profesional.
 
 ### Stack Tecnológico y Analítico
 * **Lenguajes y Modelado:** Python (Pandas, LightGBM, Machine Learning), R Studio, SQL.
